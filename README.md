@@ -1,2 +1,2 @@
 # Lets go REDI
-author sadat
+Author: Sadat
